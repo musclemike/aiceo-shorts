@@ -1,0 +1,19 @@
+aiCEO – Shorts · Fremdmaterial und Lizenzen
+
+Stimme
+  ElevenLabs (elevenlabs.io), Standardstimme „Daniel“, Modell eleven_v4.
+  Erzeugt am 15.11.2026 im Creator-Tarif (bezahlt, kommerzielle Nutzung erlaubt, keine Nennung nötig).
+
+Schrift
+  Archivo, Omnibus-Type, SIL Open Font License 1.1 (über @fontsource-variable/archivo aus der App).
+
+Musik (eigene Komposition, gespielt mit Samples)
+  Piano: "Salamander Grand Piano V3" by Alexander Holm, licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  Samples (CC0): Karoryfer Samples / sfzinstruments (Sneakybass), Versilian Community Sample Library (Versilian Studios: Glockenspiel, Vibraphon)
+  Schlagzeug, Chiptune-Stimme und alle Geräusche: im Code synthetisiert.
+
+Bild
+  Die App-Oberfläche ist die eigene aiCEO-Web-Demo (apps/web) mit ihren Beispieldaten „Beispiel GmbH“,
+  als HTML/CSS eingefroren (dieselben Bildschirme wie im deutschen Erklärfilm) und im Short neu gezeichnet.
+  Die Emoji darin stammen aus der Systemschrift von Windows (Segoe UI Emoji).
+  Desktop, Dateisymbole, Figur und Zeiger: im Code gezeichnet.
