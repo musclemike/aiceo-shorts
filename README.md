@@ -5,6 +5,10 @@ Zehn Kurzvideos im Hochformat (1080 × 1920, 16–22 s, Deutsch, Untertitel im B
 Jedes beginnt mit einer Frage, die sich ein kleiner Betrieb stellt, und zeigt eine Funktion der App mit Beispieldaten.
 Auf YouTube sind alle zehn schon zu den Zeiten unten geplant. Diese Seite ist für Instagram und TikTok.
 
+**Neu seit 21.11.2026: der Sketch „Gibt's.“** (0:30, Fliesenleger auf der Baustelle, ganz anders als die zehn). Auf YouTube
+ist er seit Sa 21.11. um 18:40 öffentlich: https://youtube.com/shorts/Tb_-Ti4mGGk. Bitte so bald wie möglich auch auf
+Instagram und TikTok posten. Text und Hinweise: [ganz unten](#gibts--sketch--sofort).
+
 - **Videos:** im Release [v1](https://github.com/musclemike/aiceo-shorts/releases/tag/v1), Direktlinks in der Tabelle
 - **Cover:** im Ordner [`cover/`](cover), je 1080 × 1920
 - **Lizenzen:** [`CREDITS`](CREDITS)
@@ -21,6 +25,7 @@ Auf YouTube sind alle zehn schon zu den Zeiten unten geplant. Diese Seite ist f�
 | Fr 20.11.2026 | 18:00 | 06 Der CEO verteilt die Arbeit | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-06.mp4) | [cover-06](cover/cover-06.jpg) |
 | Sa 21.11.2026 | 12:00 | 07 Freigabe | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-07.mp4) | [cover-07](cover/cover-07.jpg) |
 | Sa 21.11.2026 | 18:00 | 08 Chatbot oder Geschäftsführer | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-08.mp4) | [cover-08](cover/cover-08.jpg) |
+| Sa 21.11.2026 | sofort | Gibt's. (Sketch) | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-gibts.mp4) | [cover-gibts](cover/cover-gibts.jpg) |
 | So 22.11.2026 | 10:00 | 10 Ein Morgen mit aiCEO | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-10.mp4) | [cover-10](cover/cover-10.jpg) |
 | Mo 23.11.2026 | 18:00 | 09 Was kostet das? | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-09.mp4) | [cover-09](cover/cover-09.jpg) |
 
@@ -209,4 +214,27 @@ Die Firmendaten im Video sind Beispieldaten („Beispiel GmbH“), die Preise si
 Musik: eigene Komposition. Klavier: „Salamander Grand Piano V3“ von Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0)
 
 #aiCEO #KI #KMU #Unternehmer #Selbstständig
+```
+
+### Gibt's. · Sketch · sofort
+
+`aiceo-short-gibts.mp4` · 0:30 · Cover `cover/cover-gibts.jpg` (sonst Standbild bei 11,3 s)
+
+Anders als bei den zehn sind hier **die Personen und ihre Stimmen komplett mit KI erzeugt** (Google Gemini Omni, Standbilder
+von OpenAI). Die KI-Kennzeichnung ist bei diesem Short Pflicht: Instagram „KI-Info“, TikTok „KI-generierte Inhalte“.
+Hannes und Ferdl sind erfundene Figuren. Untertitel sind wieder im Bild, diesmal in der Mitte.
+
+```text
+„Warum gibt's keinen KI-Chef?“ – „Gibt's eh.“
+
+Hannes will, dass ihm die KI endlich die richtige Arbeit abnimmt: Angebote, Mahnungen, die Mails um elf in der Nacht. Ferdl hat das längst – und sein Angebot an die Huberin ist schon um 07:12 raus.
+
+Mit aiCEO liegen Angebote und Mails fertig vorbereitet in deinen Freigaben. Raus geht nur, was du freigibst.
+
+Pilotbetriebe gesucht: info@aiceo.at
+Mehr: aiceo.at (Link im Profil)
+Alle Personen, Namen und Zahlen sind erfunden. Bild und Stimmen sind KI-generiert.
+Klavier: „Salamander Grand Piano V3“ von Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0)
+
+#aiCEO #KI #Handwerk #Fliesenleger #Selbstständig
 ```

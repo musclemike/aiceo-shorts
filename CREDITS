@@ -17,3 +17,9 @@ Bild
   als HTML/CSS eingefroren (dieselben Bildschirme wie im deutschen Erklärfilm) und im Short neu gezeichnet.
   Die Emoji darin stammen aus der Systemschrift von Windows (Segoe UI Emoji).
   Desktop, Dateisymbole, Figur und Zeiger: im Code gezeichnet.
+
+Sketch „Gibt's.“ (aiceo-short-gibts.mp4, 21.11.2026)
+  Spielszenen mit Bild und Stimmen: Google Gemini Omni (gemini-omni-1.2-flash) über die Gemini API, ausgehend von
+  Standbildern aus OpenAI gpt-image-2. Hannes, Ferdl, Familie Huber und alle Zahlen sind erfunden.
+  Handy-Einschub, Untertitel und Endkarte: im Code gezeichnet (Schrift Archivo, siehe oben).
+  Klavierakkord am Ende: "Salamander Grand Piano V3" by Alexander Holm, CC BY 3.0. Geräusche: im Code synthetisiert.
