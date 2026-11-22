@@ -9,6 +9,10 @@ Auf YouTube sind alle zehn schon zu den Zeiten unten geplant. Diese Seite ist f�
 ist er seit Sa 21.11. um 18:40 öffentlich: https://youtube.com/shorts/Tb_-Ti4mGGk. Bitte so bald wie möglich auch auf
 Instagram und TikTok posten. Text und Hinweise: [ganz unten](#gibts--sketch--sofort).
 
+**Neu seit 22.11.2026: „Hotel.“**, die zweite Folge mit Hannes und Ferdl (0:29, wieder auf der Baustelle). Auf YouTube
+erscheint sie am **Di 24.11. um 18:00**. Bitte zur selben Zeit auf Instagram und TikTok posten. Text und Hinweise:
+[ganz unten](#hotel--sketch--di-2411-1800).
+
 - **Videos:** im Release [v1](https://github.com/musclemike/aiceo-shorts/releases/tag/v1), Direktlinks in der Tabelle
 - **Cover:** im Ordner [`cover/`](cover), je 1080 × 1920
 - **Lizenzen:** [`CREDITS`](CREDITS)
@@ -28,6 +32,7 @@ Instagram und TikTok posten. Text und Hinweise: [ganz unten](#gibts--sketch--sof
 | Sa 21.11.2026 | sofort | Gibt's. (Sketch) | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-gibts.mp4) | [cover-gibts](cover/cover-gibts.jpg) |
 | So 22.11.2026 | 10:00 | 10 Ein Morgen mit aiCEO | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-10.mp4) | [cover-10](cover/cover-10.jpg) |
 | Mo 23.11.2026 | 18:00 | 09 Was kostet das? | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-09.mp4) | [cover-09](cover/cover-09.jpg) |
+| Di 24.11.2026 | 18:00 | Hotel. (Sketch, Folge 2) | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-hotel.mp4) | [cover-hotel](cover/cover-hotel.jpg) |
 
 Folge 09 (der Preis) kommt bewusst zum Schluss, wenn die Zuschauer die App schon kennen. Uhrzeiten in Ortszeit Wien.
 
@@ -230,6 +235,29 @@ Hannes und Ferdl sind erfundene Figuren. Untertitel sind wieder im Bild, diesmal
 Hannes will, dass ihm die KI endlich die richtige Arbeit abnimmt: Angebote, Mahnungen, die Mails um elf in der Nacht. Ferdl hat das längst – und sein Angebot an die Huberin ist schon um 07:12 raus.
 
 Mit aiCEO liegen Angebote und Mails fertig vorbereitet in deinen Freigaben. Raus geht nur, was du freigibst.
+
+Pilotbetriebe gesucht: info@aiceo.at
+Mehr: aiceo.at (Link im Profil)
+Alle Personen, Namen und Zahlen sind erfunden. Bild und Stimmen sind KI-generiert.
+Klavier: „Salamander Grand Piano V3“ von Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0)
+
+#aiCEO #KI #Handwerk #Fliesenleger #Selbstständig
+```
+
+### Hotel. · Sketch · Di 24.11., 18:00
+
+`aiceo-short-hotel.mp4` · 0:29 · Cover `cover/cover-hotel.jpg` (sonst Standbild bei 1,6 s)
+
+Zweite Folge mit Hannes und Ferdl. Wie bei „Gibt's.“ sind **die Personen und ihre Stimmen komplett mit KI erzeugt**
+(diesmal mit Google Flow). Die KI-Kennzeichnung ist Pflicht: Instagram „KI-Info“, TikTok „KI-generierte Inhalte“. Der
+Bildschirm auf Ferdls Handy ist von uns eingesetzt. Untertitel sind im Bild, in der Mitte.
+
+```text
+„Tausend ungelesene Mails!“ – „Liest eh meiner.“
+
+Hannes erstickt in Mails: Werbung, Gewinnspiel, Werbung. Ferdls KI-Chef hat sein Postfach über Nacht sortiert – und die Anfrage vom Hotel mit 40 Bädern schon beantwortet. Hannes hat sie auch. Seit dem 3. November.
+
+Mit aiCEO sortiert dein KI-Chef deine Mails, findet die wichtigen und legt Antworten und Angebote fertig vor. Raus geht nur, was du freigibst.
 
 Pilotbetriebe gesucht: info@aiceo.at
 Mehr: aiceo.at (Link im Profil)
