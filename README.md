@@ -13,6 +13,10 @@ Instagram und TikTok posten. Text und Hinweise: [ganz unten](#gibts--sketch--sof
 erscheint sie am **Di 24.11. um 18:00**. Bitte zur selben Zeit auf Instagram und TikTok posten. Text und Hinweise:
 [ganz unten](#hotel--sketch--di-2411-1800).
 
+**Neu seit 23.11.2026: „Schuhschachtel.“**, die dritte Folge mit Hannes und Ferdl (0:25, diesmal im Wartezimmer beim
+Steuerberater). Auf YouTube erscheint sie am **Mi 25.11. um 18:00**. Bitte zur selben Zeit auf Instagram und TikTok posten.
+Text und Hinweise: [ganz unten](#schuhschachtel--sketch--mi-2511-1800).
+
 - **Videos:** im Release [v1](https://github.com/musclemike/aiceo-shorts/releases/tag/v1), Direktlinks in der Tabelle
 - **Cover:** im Ordner [`cover/`](cover), je 1080 × 1920
 - **Lizenzen:** [`CREDITS`](CREDITS)
@@ -33,6 +37,7 @@ erscheint sie am **Di 24.11. um 18:00**. Bitte zur selben Zeit auf Instagram und
 | So 22.11.2026 | 10:00 | 10 Ein Morgen mit aiCEO | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-10.mp4) | [cover-10](cover/cover-10.jpg) |
 | Mo 23.11.2026 | 18:00 | 09 Was kostet das? | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-09.mp4) | [cover-09](cover/cover-09.jpg) |
 | Di 24.11.2026 | 18:00 | Hotel. (Sketch, Folge 2) | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-hotel.mp4) | [cover-hotel](cover/cover-hotel.jpg) |
+| Mi 25.11.2026 | 18:00 | Schuhschachtel. (Sketch, Folge 3) | [mp4](https://github.com/musclemike/aiceo-shorts/releases/download/v1/aiceo-short-schuhschachtel.mp4) | [cover-schuhschachtel](cover/cover-schuhschachtel.jpg) |
 
 Folge 09 (der Preis) kommt bewusst zum Schluss, wenn die Zuschauer die App schon kennen. Uhrzeiten in Ortszeit Wien.
 
@@ -258,6 +263,29 @@ Bildschirm auf Ferdls Handy ist von uns eingesetzt. Untertitel sind im Bild, in 
 Hannes erstickt in Mails: Werbung, Gewinnspiel, Werbung. Ferdls KI-Chef hat sein Postfach über Nacht sortiert – und die Anfrage vom Hotel mit 40 Bädern schon beantwortet. Hannes hat sie auch. Seit dem 3. November.
 
 Mit aiCEO sortiert dein KI-Chef deine Mails, findet die wichtigen und legt Antworten und Angebote fertig vor. Raus geht nur, was du freigibst.
+
+Pilotbetriebe gesucht: info@aiceo.at
+Mehr: aiceo.at (Link im Profil)
+Alle Personen, Namen und Zahlen sind erfunden. Bild und Stimmen sind KI-generiert.
+Klavier: „Salamander Grand Piano V3“ von Alexander Holm, CC BY 3.0 (creativecommons.org/licenses/by/3.0)
+
+#aiCEO #KI #Handwerk #Fliesenleger #Selbstständig
+```
+
+### Schuhschachtel. · Sketch · Mi 25.11., 18:00
+
+`aiceo-short-schuhschachtel.mp4` · 0:25 · Cover `cover/cover-schuhschachtel.jpg` (sonst Standbild bei 3,6 s)
+
+Dritte Folge mit Hannes und Ferdl. Wie bei „Gibt's.“ und „Hotel.“ sind **die Personen und ihre Stimmen komplett mit KI
+erzeugt** (mit Google Flow). Die KI-Kennzeichnung ist Pflicht: Instagram „KI-Info“, TikTok „KI-generierte Inhalte“. Der
+Bildschirm auf Ferdls Handy ist von uns eingesetzt. Untertitel sind im Bild, in der Mitte.
+
+```text
+„Ein Jahr Zettel!“ – „Hab i eh alle.“
+
+Hannes sitzt beim Steuerberater, auf dem Schoß ein Schuhkarton voller Zettel: ein ganzes Jahr. Ferdl hat nichts mit außer seiner Semmel. Seine Belege hat sein KI-Chef längst gelesen und eingetragen. Und was bringt er dem Steuerberater? A Weihnachtskarte.
+
+Mit aiCEO lädst du deine Belege hoch, auch als Foto vom Kassenbon. Dein KI-Chef liest sie und trägt sie in deine Finanzen ein. Raus geht nur, was du freigibst.
 
 Pilotbetriebe gesucht: info@aiceo.at
 Mehr: aiceo.at (Link im Profil)
